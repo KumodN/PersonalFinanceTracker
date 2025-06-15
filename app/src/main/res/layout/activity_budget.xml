@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/budgetLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/tvBudgetTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Your Monthly Budget"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#333333"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Monthly Budget (in Rs.)"
+        android:textSize="14sp"
+        android:textColor="#555555"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/etMonthlyBudget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e.g., 5000"
+        android:inputType="numberDecimal"
+        android:importantForAccessibility="yes"
+        android:contentDescription="Enter monthly budget value"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:background="@drawable/bg"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/btnSaveBudget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Budget"
+        android:textColor="#FFFFFF"
+        android:background="@color/purple"
+        android:textSize="16sp"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:id="@+id/tvUsedBudget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Used Budget: Rs. 0.00"
+        android:textColor="#444444"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvIncome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Income: Rs. 0.00"
+        android:textColor="#444444"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvExpenses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Expenses: Rs. 0.00"
+        android:textColor="#444444"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/tvRemainingBudget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Remaining: Rs. 0.00"
+        android:textColor="#444444"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Budget Progress"
+        android:textSize="14sp"
+        android:textColor="#555555"
+        android:layout_marginBottom="8dp"/>
+
+    <ProgressBar
+        android:id="@+id/progressBudget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:max="100"
+        android:progress="0"
+        android:progressTint="#4CAF50"
+        android:indeterminateDrawable="@drawable/custom_progress_bar"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You can adjust your budget anytime."
+        android:textColor="#999999"
+        android:textSize="14sp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"/>
+
+</LinearLayout>

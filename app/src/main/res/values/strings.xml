@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">PersonalFinanceTracker</string>
+    <string name="total_balance_rs_0_00">Total Balance: Rs. 0.00</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="title">Title</string>
+    <string name="amount_rs">Amount (Rs)</string>
+    <string name="select_date">Select Date</string>
+    <string name="date_not_selected">Date: Not Selected</string>
+    <string name="save_transaction">Save Transaction</string>
+    <string name="enter_monthly_budget_rs">Enter Monthly Budget (Rs)</string>
+    <string name="save_budget">Save Budget</string>
+    <string name="used_rs_0_00">Used: Rs. 0.00</string>
+    <string name="category_wise_summary">Category-wise Summary</string>
+    <string name="rs_0_00">Rs. 0.00</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="title1">Title</string>
+    <string name="balance_rs_0_00">Balance: Rs. 0.00</string>
+    <string name="income_rs_0_00">Income: Rs. 0.00</string>
+    <string name="expenses_rs_0_00">Expenses: Rs. 0.00</string>
+    <string name="add_transaction1">Add Transaction</string>
+    <string name="view_summary">View Summary</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="backup_data">Backup Data</string>
+    <string name="privacy_policy_content">
+    <string name="privacy_policy_content">
+    This Privacy Policy outlines how we collect, use, and protect your personal information in accordance with data protection laws.
+    By using this application, you agree to the practices described below.\n
+    \n
+    1. Information Collection:\n
+
+    We may collect personal information such as transaction records, budget data, and dates for functionality purposes.
+    This data is stored locally and not shared with third parties.\n
+    \n
+    2. Use of Information:\n
+
+    Information is used solely to provide features such as budgeting, summaries, and reminders.
+    We do not sell or share user data with external services.\n
+    \n
+    3. Data Security:\n
+
+    All data is stored securely within your device.\n
+    We implement internal backups and encourage you to use provided export and restore features responsibly.\n
+    \n
+    4. Third-party Services:\n
+
+    This app does not use or integrate with third-party APIs that collect personal information.\n
+    \n
+    5. Changes to This Policy:\n
+
+    We reserve the right to update this Privacy Policy as necessary.\n
+    Changes will be notified through the app update log or on the app interface.\n
+    \n
+    6. Contact:\n
+
+    If you have any concerns or inquiries, you may contact the developer at kumodnenuk@gmail.com.\n
+    \n
+    Effective Date: April 22, 2025.\n
+</string>
+
+
+
+    This app respects your privacy. All financial data is stored locally and never shared.
+</string>
+    <string name="restore_data">Restore Data</string>
+</resources>
