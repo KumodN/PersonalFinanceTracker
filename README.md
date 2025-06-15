@@ -31,7 +31,13 @@ A simple and intuitive **Android application** built using **Kotlin** to help us
 
 ## 📸 Screenshots
 
-![Screenshot_20250615_164508](https://github.com/user-attachments/assets/7b93b70a-8751-4a47-9310-63f6058f6daa) ![Screenshot_20250615_164701](https://github.com/user-attachments/assets/89b2c090-b219-42b0-b279-39811ff27690) ![Screenshot_20250615_164714](https://github.com/user-attachments/assets/05382d88-7b44-429b-aba4-e8dc959a260d) ![Screenshot_20250615_164822](https://github.com/user-attachments/assets/df79f2fc-cf8a-409e-9968-b0417e90edc5) ![Screenshot_20250615_164912](https://github.com/user-attachments/assets/a1f27a72-bc29-496c-a7fc-484bc0a11694)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b93b70a-8751-4a47-9310-63f6058f6daa" width="300"/>
+  <img src="https://github.com/user-attachments/assets/89b2c090-b219-42b0-b279-39811ff27690" width="300"/>
+  <img src="https://github.com/user-attachments/assets/05382d88-7b44-429b-aba4-e8dc959a260d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/df79f2fc-cf8a-409e-9968-b0417e90edc5" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a1f27a72-bc29-496c-a7fc-484bc0a11694" width="300"/>
+</p>
 
 ---
 
